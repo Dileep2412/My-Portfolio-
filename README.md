@@ -1,11 +1,11 @@
 👉 https://dileep-portfolio1224.netlify.app/
 
-# 💼 My Portfolio Website
+#  My Portfolio Website
 
 This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
 It showcases my projects, skills, and provides a way to connect with me.
 
-## 🚀 Features
+##  Features
 
 - Clean and responsive design
 - Project showcase section
@@ -13,7 +13,7 @@ It showcases my projects, skills, and provides a way to connect with me.
 - Contact form
 - Smooth scroll and basic animations
 
-## 📁 Project Structure
+## Project Structure
 ├── index.html # Main HTML file
 ├── style.css # Styling (CSS)
 ├── script.js # JavaScript for interactivity
